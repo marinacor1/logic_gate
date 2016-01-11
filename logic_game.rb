@@ -57,8 +57,3 @@ class Triple < Double
   end
 
 end
-
-# gate = And::Double.new
-# gate.input_a = 1
-# gate.input_b = 1
-# gate.output
